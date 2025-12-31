@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content="tm5Y6ZNTf-lBqbwniGjQPv1q02o2TuUQZ9GTYa4SMLg" />
+  <title>Thomas Najih Dorsey</title>
+
+  <meta name="description"
+    content="Thomas Najih Dorsey's personal website. JD-PhD Student at Harvard and Oxford." />
+  <meta name="keywords" content="s" />
+  <meta property="og:title" content="Thomas Najih Dorsey" />
+  <meta property="og:url" content="https://www.thomasnajihdorsey.com" />
+  <meta property="og:description"
+    content="Thomas Najih Dorsey's personal website. JD-PhD Student at Harvard and Oxford." />
+  <meta property="og:type" content="website" />
+
+  <link rel="stylesheet" href="https://latex.vercel.app/style.css">
+  <link rel="stylesheet" href="https://latex.vercel.app/prism/prism.css">
+  <script src="./js/prism.js"></script>
+</head>
+
+<body id="top" class="latex-dark-auto">
+  <header>
+    <h1><span class="latex">Thomas Najih Dorsey</h1>
+  </header>
+  
+<span class="sidenote"><img src="IMG_0270.jpg" alt="Thomas Najih Dorsey" width="250" style="border-radius: 10px;">
+      This is me working for CNN on the floor at the DNC. I did the same for the RNC. (One of the cameramen, Steve, told me to turn around and smile.)</span>
+  
+  <div class="abstract">
+    <h2>Abstract</h2>
+    <p>
+      Hi! I'm Thomas, and I'm in the first year of a J.D.-Ph.D. at Harvard University and the University of Oxford.
+      In 2024, I graduated with honors from the University of Chicago with degrees in economics and philosophy, making what I hope to be many lifelong friends along the way. This website, as you might guess, is a work in progress.
+    </p>
+  </div>
+
+  <nav role="navigation" class="toc">
+    <h2>Contents</h2>
+    <ol>
+      <li><a href="#whatDo">I. How am I spending this week?</a></li>
+      <li><a href="#words">II. Writing</a></li>
+      <li><a href="#socials">III. Socials & Contact Info</a></li>
+      <li><a href="#feedback">IV. Anonymous Feedback</a></li>
+    </ol>
+  </nav>
+
+  <main>
+    <article>
+      <h2 id="whatDo">I. What am I working on right now?</h2>
+      Right now (last updated on [Date]), I'm:
+      <ul>
+        <li>[item]</li>
+        <li>[item]</li>
+        <li>[item]</li>
+      </ul>
+
+      <h2 id="words">II. Writing</h2>
+      Here's a quick look through a few public-facing things I've written. I haven't finished consolidating everything here, so feel free to <a href="#socials">reach out</a> and check if you're looking for a particular genre of writing that isn't below, there's a chance I have it anyway.
+      <h3>Nonfiction</h3>
+      <ul>
+        <li>
+          [item]
+        </li>
+        <li>
+          [item]
+        </li>
+        <li>
+          [item]
+        </li>
+        <li>
+          [item]
+        </li>
+        <li>
+          [item]
+      </ul>
+
+    <h2 id="socials">IV. Social Media & Contact Info</h2>
+    <p>
+      I'm not on Instagram and only nominally have a Facebook.
+    </p>
+    <p>
+      If you want to email me, you can use
+      <code class="language-python"> "thomas.dorsey" + "@" + "balliol.ox.ac.uk"</code><br>
+    </p>
+
+    <h2 id="feedback">V. Leave me anonymous feedback!</h2>
+    <p>
+      I believe that I ought to be the best version of myself that I can. I aspire
+      to change my mind as I see new evidence, and it's very important to me that
+      I balance the knowledge that I could be totally wrong with the push to 
+      actually do the things I think are right.
+    </p>
+    <p>
+    </p>
+</body>
+
+</html>
